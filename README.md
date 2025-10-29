@@ -14,15 +14,14 @@ Teknologi
 - MySQL
 
 Fitur utama
-- Login untuk warga, petugas, dan admin
+- Login untuk warga, dan admin
 - Form pengaduan dengan upload bukti
 - Daftar riwayat pengaduan
-- Update status pengaduan oleh petugas
+- Update status pengaduan oleh admin
 - Dashboard sederhana untuk admin
   
 Peran pengguna
-- Warga: buat dan lihat laporan sendiri  
-- Petugas: verifikasi dan update status laporan  
+- Warga: buat dan lihat laporan sendiri   
 - Admin: kelola user, kategori, dan laporan
 
 Catatan
